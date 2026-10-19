@@ -38,6 +38,6 @@ Email: 6730573021@student.chula.ac.th
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+5 bar linkage
 
 🎬 5. Video Lecture
