@@ -29,12 +29,12 @@ Email: 6730573021@student.chula.ac.th
 
 🖼️ 2. Picture
 
-![Uploading image.png…]()
+![Quote](Quote.png)
 
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GitGif.gif)
+![Git Animation](GITGIF.gif)
 
 💬 4. Quote
 
