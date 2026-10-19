@@ -1,3 +1,6 @@
+รอบนี้ผมน่าจะทำผิดเยอะอยู่ครับ คือผมไม่ค่อยเข้าใจระบบเท่าไหร่ มันงงๆ ขอเวลาศึกษาหาคลิปการใช้งานก่อนครับ
+
+
 🐙 GitHub Assignment: Repository and README Practice
 
 Clone the Git-Exercise repository and upload your copy to a repository under your own GitHub account. Complete the tasks below, then submit your repository URL for evaluation.
