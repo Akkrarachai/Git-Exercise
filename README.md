@@ -9,11 +9,13 @@ Email: 6730573021@student.chula.ac.th
 
 Responsibilities: HARDWARE
 
+
 Name: Nuttawin Thaweesin
 
 Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
 
 Responsibilities: MATLAB
+
 
 Name: Atethpoom Auilert
 
