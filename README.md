@@ -13,7 +13,7 @@ Responsibilities: HARDWARE
 
 Name: Nuttawin Thaweesin
 
-Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
+Email: 6730173721@student.chula.ac.th 
 
 Responsibilities: MATLAB
 
