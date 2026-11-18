@@ -1,5 +1,5 @@
 # **2103322 MECH MACHINERY Project**
-# **Planar 5-Bar Mechanism (2-DOF)**
+# *Planar 5-Bar Mechanism (2-DOF)*
 
 ## 👤 1. Student Information
 
