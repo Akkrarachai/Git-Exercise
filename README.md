@@ -21,7 +21,7 @@ Responsibilities: MATLAB
 
 Name: Atethpoom Auilert
 
-Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th
+Email: 6730567321@student.chula.ac.th
 
 Responsibilities: MULTIBODY
 
