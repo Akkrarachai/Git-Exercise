@@ -4,15 +4,21 @@
 ## 👤 1. Student Information
 
 Name: Akkraracahi Phiton
-Email: 6730573021@student.chula.ac.th 
+
+Email: 6730573021@student.chula.ac.th
+
 Responsibilities: HARDWARE
 
 Name: Nuttawin Thaweesin
+
 Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
+
 Responsibilities: MATLAB
 
 Name: Atethpoom Auilert
-Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
+
+Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th
+
 Responsibilities: MULTIBODY
 
 
