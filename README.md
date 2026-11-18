@@ -16,17 +16,17 @@ Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Responsibilities: MULTIBODY
 
 
-🖼️ 2. Picture
+## 🖼️ 2. Picture
 
 ![Quote](Quote.png)
 
 
-🎞️ 3. Animation
+## 🎞️ 3. Animation
 
 ![Git Animation](GITGIF.gif)
 
 💬 4. Quote
 
-5 bar linkage
+## 5 bar linkage
 
 🎬 5. Video Lecture
