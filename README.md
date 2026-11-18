@@ -1,34 +1,20 @@
-รอบนี้ผมน่าจะทำผิดเยอะอยู่ครับ คือผมไม่ค่อยเข้าใจระบบเท่าไหร่ มันงงๆ ขอเวลาศึกษาหาคลิปการใช้งานก่อนครับ
+# **2103322 MECH MACHINERY Project**
+# **Planar 5-Bar Mechanism (2-DOF)**
 
-
-🐙 GitHub Assignment: Repository and README Practice
-
-Clone the Git-Exercise repository and upload your copy to a repository under your own GitHub account. Complete the tasks below, then submit your repository URL for evaluation.
-
-📋 Assignment Instructions
-
-a) Copy the GitGif.* files into the Animation directory.
-
-b) Copy one of the Quote.* files into the Picture directory. Choose a format that displays directly in a web browser.
-
-c) Update this README.md file:
-
-     Section 1: Enter your name and email address.
-
-     Section 2: Embed the quote image from the Picture directory.
-
-     Section 3: Embed the GIF animation from the Animation directory.
-
-     Section 4: Type the quote as plain text.
-
-     Commit your changes and submit your repository URL.
-
-     Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
-
-👤 1. Student Information
+## 👤 1. Student Information
 
 Name: Akkraracahi Phiton
 Email: 6730573021@student.chula.ac.th 
+Responsibilities: HARDWARE
+
+Name: Nuttawin Thaweesin
+Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
+Responsibilities: MATLAB
+
+Name: Atethpoom Auilert
+Email: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@student.chula.ac.th 
+Responsibilities: MULTIBODY
+
 
 🖼️ 2. Picture
 
