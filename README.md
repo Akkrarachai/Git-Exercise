@@ -44,8 +44,13 @@ https://github.com/user-attachments/assets/a0aa0e7f-c78d-453d-8f50-72192e6e88fb
 Hardware Video
 https://github.com/user-attachments/assets/35d077c4-596c-4f41-a618-ee290bc5def8
 
+##🎬 4. Reference Research
+1. Klein, J., Roach, N., & Burdet, E. (2014). 3DOM: A 3 Degree of Freedom Manipulandum to Investigate Redundant Motor Control. *IEEE Transactions on Haptics*, 7(2), 229–239. 
+[A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf](https://github.com/user-attachments/files/35091146/A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf)
+
+&nbsp;
+2. Moazed, R. (2006). *Experimental Study of a Two-DOF Five Bar Close-Loop Mechanism* [Master's thesis, University of Saskatchewan].
+[EXPERIMENTAL_STUDY_OF_A_TWO_DOF_FIVE_BAR_CLOSE_LOOP_MECHANISM .pdf](https://github.com/user-attachments/files/35091185/EXPERIMENTAL_STUDY_OF_A_TWO_DOF_FIVE_BAR_CLOSE_LOOP_MECHANISM.pdf)
 
 
-💬 4. Quote
 
-🎬 5. Video Lecture
