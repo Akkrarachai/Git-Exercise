@@ -33,7 +33,10 @@ Responsibilities: MULTIBODY
 
 ## 🎞️ 3. Animation
 
-![Git Animation](GITGIF.gif)
+Simbolic MATLAB Video
+https://github.com/user-attachments/assets/72033392-1b4b-4987-9b6b-0efc943466c2
+
+
 
 💬 4. Quote
 
