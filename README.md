@@ -45,7 +45,6 @@ Hardware Video
 https://github.com/user-attachments/assets/35d077c4-596c-4f41-a618-ee290bc5def8
 
 ## 🎬 4. Reference Research
-&nbsp;
 1. Klein, J., Roach, N., & Burdet, E. (2014). 3DOM: A 3 Degree of Freedom Manipulandum to Investigate Redundant Motor Control. *IEEE Transactions on Haptics*, 7(2), 229–239. 
 [A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf](https://github.com/user-attachments/files/35091146/A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf)
 
