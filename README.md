@@ -1,5 +1,9 @@
 # **2103322 MECH MACHINERY Project**
 # *Planar 5-Bar Mechanism (2-DOF)*
+## REPORT
+[5 BAR.pdf](https://github.com/user-attachments/files/35092685/5.BAR.pdf)
+[5 BAR.docx](https://github.com/user-attachments/files/35092683/5.BAR.docx)
+
 
 ## 👤 1. Student Information
 
@@ -15,7 +19,7 @@ Name: Nuttawin Thaweesin
 
 Email: 6730173721@student.chula.ac.th 
 
-Responsibilities: MATLAB
+Responsibilities: SIMBOLIC MATLAB
 
 &nbsp;
 
