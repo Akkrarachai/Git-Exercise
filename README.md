@@ -27,9 +27,10 @@ Responsibilities: MULTIBODY
 
 
 ## 🖼️ 2. Picture
+![](image/Simbolic_MATLAB.png)
 
 ![](image/multibody_animation.png)
-![](image/hardware.jpg)
+
 ![](image/hardware.jpg)
 ## 🎞️ 3. Animation
 &nbsp;
