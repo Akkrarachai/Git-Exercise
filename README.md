@@ -28,7 +28,7 @@ Responsibilities: MULTIBODY
 
 ## 🖼️ 2. Picture
 
-![Quote](Quote.png)
+![](image/Hardware.jpeg)
 
 
 ## 🎞️ 3. Animation
