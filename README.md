@@ -1,7 +1,8 @@
 # **2103322 MECH MACHINERY Project**
 # *Planar 5-Bar Mechanism (2-DOF)*
-## REPORT
+## ------------REPORT------------
 [5 BAR.pdf](https://github.com/user-attachments/files/35092685/5.BAR.pdf)
+&nbsp;
 [5 BAR.docx](https://github.com/user-attachments/files/35092683/5.BAR.docx)
 
 
