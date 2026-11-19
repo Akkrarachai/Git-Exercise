@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/35d077c4-596c-4f41-a618-ee290bc5def8
 [A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf](https://github.com/user-attachments/files/35091146/A_3DegreeofFreedom_Manipulandum_to_Investigate_Redundant_Motor_Control.pdf)
 
 &nbsp;
-2. Moazed, R. (2006). *Experimental Study of a Two-DOF Five Bar Close-Loop Mechanism* [Master's thesis, University of Saskatchewan].
+ 2. Moazed, R. (2006). *Experimental Study of a Two-DOF Five Bar Close-Loop Mechanism* [Master's thesis, University of Saskatchewan].
 [EXPERIMENTAL_STUDY_OF_A_TWO_DOF_FIVE_BAR_CLOSE_LOOP_MECHANISM .pdf](https://github.com/user-attachments/files/35091185/EXPERIMENTAL_STUDY_OF_A_TWO_DOF_FIVE_BAR_CLOSE_LOOP_MECHANISM.pdf)
 
 
