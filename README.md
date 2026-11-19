@@ -48,6 +48,4 @@ https://github.com/user-attachments/assets/35d077c4-596c-4f41-a618-ee290bc5def8
 
 💬 4. Quote
 
-## 5 bar linkage
-
 🎬 5. Video Lecture
